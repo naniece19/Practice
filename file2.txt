@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 krushna krushna Hare Hare
+=======
+Hare krushna,Hare krushna
+>>>>>>> f10afa11268b4c2784154b7366b0cf2a397e6c78
